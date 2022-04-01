@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  padding: 20px 0px;
+}
+
+body .sex {
+  text-align: center;
+  padding: 30px;
+  font-size: 1.3rem;
+}
+
+body .sex input:nth-child(2) {
+  margin-left: 80px;
+}
+
+body #container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+body #container input, body #container button {
+  margin: auto;
+  width: 60vw;
+  margin-bottom: 20px;
+  padding: 10px 0px;
+}
+
+body #container input {
+  text-indent: 5px;
+}
+
+body #container img {
+  width: 150px;
+  margin: 30px auto;
+}
+
+body #container p {
+  text-align: center;
+  font-size: 1.5rem;
+}
+/*# sourceMappingURL=style.css.map */
