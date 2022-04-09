@@ -40,7 +40,7 @@ body #container input, body #container button {
 }
 
 body #container input {
-  text-indent: 5px;
+  text-align: center;
 }
 
 body #container img {
